@@ -1,6 +1,7 @@
 const path = require("path");
 
 module.exports = {
+  
   pluginOptions: {
     moment: {
       locales: [""],
